@@ -123,11 +123,11 @@ public class RecordButton extends AppCompatImageView implements View.OnTouchList
 
 
     protected void startScale() {
-        scaleAnim.start();
+        //scaleAnim.start();
     }
 
     protected void stopScale() {
-        scaleAnim.stop();
+//        scaleAnim.stop();
     }
 
     public void setListenForRecord(boolean listenForRecord) {
